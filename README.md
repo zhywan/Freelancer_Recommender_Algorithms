@@ -7,11 +7,11 @@ Zhiyun Yin, Na Wang, Zhiyu Wan
 
 Package contentbased includes 4 java files.
 --------------------------------------------------------------------------------------
-ProjectRecommender.java 
-  implements content-based algorithm that recommend top k projects to each freelances.
-Arguments:
-  -o:Output file (default: "data/Content_based_recommendation_result.txt")
-  -i:Input freelancer file which contians freelancers' names and top 5 skills associated with each freelancer. (default: "freelancerfile.txt")
+ProjectRecommender.java \\
+  implements content-based algorithm that recommend top k projects to each freelances.\\
+Arguments:\\
+  -o:Output file (default: "data/Content_based_recommendation_result.txt")\\
+  -i:Input freelancer file which contians freelancers' names and top 5 skills associated with each freelancer. (default: "freelancerfile.txt")\\
   -p:Input project file which contains projects' names and top 5 skills associated with each project. (default: "projectfile.txt")
 
 --------------------------------------------------------------------------------------
